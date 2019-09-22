@@ -3,7 +3,7 @@
 
 ## 내용
 * **사용 언어** - C++  
-* **Mat Buckland Programming Game AI by Example Source**를 기반으로 게임 객체(Agent)의 인공지능 구현에 대해 학습.  
+* ***Mat Buckland Programming Game AI by Example Source***를 기반으로 게임 객체(Agent)의 인공지능 구현에 대해 학습.  
 
 ### 과제 1
 * 정의된 몇가지의 **행동 패턴**에 따라 움직이는 객체를 생성.
